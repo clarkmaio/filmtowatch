@@ -37,5 +37,5 @@
 | The Invite                       | ⚫      |                                                  |
 | No Other Choice                  | ✅      |                                                  |
 | Knight and Snail                 | ⚫      |                                                  |
-| Disclosure Day                   | ⚫      |                                                  |
+| Disclosure Day                   | ✅      |                                                  |
 
